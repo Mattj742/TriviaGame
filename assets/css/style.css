@@ -1,0 +1,14 @@
+body {
+    background-image: url("../images/background.png");
+}
+
+h1 {
+	text-align: center;
+	font-weight: 700;
+}
+
+.info {
+	background-color: lightblue;
+	text-align: center;
+	width: 700px;
+}
